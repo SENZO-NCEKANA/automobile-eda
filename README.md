@@ -1,4 +1,5 @@
 ![Automobile Dataset EDA Banner](images/automobile-eda-banner.png)
+![Automobile Dataset EDA Workflow Banner](images/automobile-eda-workflow-banner.png)
 
 # Automobile Dataset Exploratory Data Analysis
 
@@ -64,6 +65,10 @@ Run the export cell in the notebook to generate the images below.
 ![Correlation Heatmap](images/correlation-heatmap.png)
 ![Price by Drive Wheels](images/price-by-drive-wheels.png)
 ![Average MPG by Manufacturer](images/avg-mpg-by-make.png)
+
+## Architecture
+
+![Automobile Dataset EDA Workflow](images/automobile-eda-workflow-banner.png)
 
 ## Reproducibility
 
