@@ -1,3 +1,5 @@
+![Automobile Dataset EDA Banner](images/automobile-eda-banner.png)
+
 # Automobile Dataset Exploratory Data Analysis
 
 Professional exploratory data analysis of the Automobile dataset using
